@@ -7,7 +7,7 @@ I have a shit ton of handwritten notes which I would love to read digitally, ann
 well the scanned notes are "light mode" (they are written on White paper with Blue/Black and colored ink). However, when I like to read something digitally
 I like to use dark mode since it is easier on the eyes, plus I am a big fan of Dracula (A *universal* Dark theme). 
 In some pdf readers you can invert the color however, this inversion does not work well for Scanned PDFs. In addition to that I use 
-[GoodNotes] (https://www.goodnotes.com/) on my iPad which does not support dark mode for PDF as of now. Any new notes that I take are Dracula color themed
+[GoodNotes](https://www.goodnotes.com/) on my iPad which does not support dark mode for PDF as of now. Any new notes that I take are Dracula color themed
 and I personally hate the disconnect between my scanned and new notes. This I feel is a good enough motivation for me to deal with this issue in all
 seriousness once in for all.
 
